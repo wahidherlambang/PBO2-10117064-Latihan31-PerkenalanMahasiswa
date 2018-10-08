@@ -8,6 +8,11 @@ package pbo2.pkg10117064.latihan31.perkenalanmahasiswa;
 /**
  *
  * @author WAHID HERLAMBANG
+ * NAMA     : Wahid Herlambang Suroso
+ * KELAS    : PBO2
+ * NIM      : 10117064
+ * Deskripsi Program : Program ini berisi program untuk menampilkan 
+ * perkenalan mahasiswa.
  */
 public class Mahasiswa {
     public String nim;
